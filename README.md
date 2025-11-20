@@ -1,3 +1,3 @@
-# @frida/http-parser-js
+# @plawnekjx/http-parser-js
 
-Frida-optimized ESM fork of https://github.com/creationix/http-parser-js.
+Plawnekjx-optimized ESM fork of https://github.com/creationix/http-parser-js.
